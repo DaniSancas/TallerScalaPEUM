@@ -3,6 +3,7 @@
 - Twitter: @SancasDev
 - GitHub: DaniSancas
 - Fecha: 23/05/2020
+- Grabación: [Ver vídeo en YouTube](https://www.youtube.com/watch?v=PVfxrYj1psA)
 
 ### Índice
 - Tuplas
