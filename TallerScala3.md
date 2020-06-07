@@ -3,6 +3,9 @@
 - Twitter: @SancasDev
 - GitHub: DaniSancas
 - Fecha: 06/06/2020
+- Grabación: 
+  - [Ver vídeo en YouTube (Parte 1)](https://www.youtube.com/watch?v=1yFDBrQInhw)
+  - [Ver vídeo en YouTube (Parte 2)](https://www.youtube.com/watch?v=G2n9VokdvnY)
 
 ### Índice
 - Resolución del ejercicio
